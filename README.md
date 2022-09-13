@@ -76,7 +76,7 @@ This is login page for Admin:
 ![image](https://user-images.githubusercontent.com/102815359/189925350-94d8af0f-15b3-42a9-aaa4-81b74fdbd77a.png)
 
 
-When you type email: "admin@admin.com" and  password: "admin123", welcome page will be open where you can put your own code,after clicking Log out you will be at home screen.If you type just email you will be asked to fill the form and 
+When you type email: "admin@admin.com" and  password: "admin123", welcome page will be open where you can put your own code,after clicking Logout you will be at home screen.If you type just email you will be asked to fill the form and 
 if you type it wrong, it will throw you a warning.
 
 ![image](https://user-images.githubusercontent.com/102815359/189926525-00f57a93-f866-42f2-b4fa-15b7715afc78.png)
